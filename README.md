@@ -15,8 +15,10 @@ Examining the following 3 graph properties: (where V is the number vertices)
   If Threshold1 > probability -> high probability for the graph to be connected.
 ```
 #### 2. Graph Diameter - `Threshold2 =  sqrt(2lnV/V)` :<br>
+````
   If Threshold2 > probability -> high probability for the graph's diameter to equal 2,
-  Otherwise the diameter of the graph is greater than 2.  
+  Otherwise the diameter of the graph is greater than 2.
+````
 #### 3. Node Isolation - `Threshold3 = (lnV / V)` :<br>
   If Threshold3 < probability -> high probability for the graph to include an isolated node.
   If Threshold3 > probability -> high probability for the graph [not] to include an isolated node.
