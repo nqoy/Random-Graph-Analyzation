@@ -25,7 +25,7 @@ To assert the  graph properties, the following process must be executed:
 Choose a list of 10 possible values for probability - 5 smaller and 5 bigger than the property threshold. (for each property).
 Genatate 500 random graphs that includes V = 1000 nodesת for each probability values. 5000 graphs in total per property.
 
-### Results
+### Results:
 Some Graphs maintain the properties and some don't, the closer the probability is to the threshold the clearer the property is reflected.
 It is worth estimating the probability that a trait exists.
 The Results of the simulations can be saved to a file, for example a CSV, and the data collected can be analyzed on that file.
