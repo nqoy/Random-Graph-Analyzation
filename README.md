@@ -10,8 +10,10 @@ In this model, the number of vertices of a graph is a fixed number, but the crea
 ### Purpose:
 Examining the following 3 graph properties: (where V is the number vertices)
 #### 1. Connectivity - `Threshold1 = (lnV / V)` :<br>
-  ``If Threshold1 < probability -> high probability for the graph [not] to be connected.
-  If Threshold1 > probability -> high probability for the graph to be connected.``
+```
+  If Threshold1 < probability -> high probability for the graph [not] to be connected.
+  If Threshold1 > probability -> high probability for the graph to be connected.
+```
 #### 2. Graph Diameter - `Threshold2 =  sqrt(2lnV/V)` :<br>
   If Threshold2 > probability -> high probability for the graph's diameter to equal 2,
   Otherwise the diameter of the graph is greater than 2.  
