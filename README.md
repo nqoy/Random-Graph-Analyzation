@@ -20,11 +20,12 @@ Examining the following 3 graph properties: (where V is the number vertices)
   Otherwise the diameter of the graph is greater than 2.
 ````
 #### 3. Node Isolation - `Threshold3 = (lnV / V)` :<br>
+````
   If Threshold3 < probability -> high probability for the graph to include an isolated node.
   If Threshold3 > probability -> high probability for the graph [not] to include an isolated node.
+````
   
 ### Simulations:
-
 To assert the  graph properties, the following process must be executed:
 Choose a list of 10 possible values for probability - 5 smaller and 5 bigger than the property threshold. (for each property).
 Genatate 500 random graphs that includes V = 1000 nodesת for each probability values. 5000 graphs in total per property.
