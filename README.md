@@ -1,4 +1,4 @@
-# Random_Graph_Analyzation
+# Random-Graph-Analyzation
 Algorithms 2 course assignment
 
 ## Guidelines: the Erdős–Rényi random graph model.
