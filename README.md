@@ -33,4 +33,9 @@ Some Graphs maintain the properties and some don't, the closer the probability i
 It is worth estimating the probability that a trait exists.
 The Results of the simulations can be saved to a file, for example a CSV, and the data collected can be analyzed on that file.
 
+# Research results:
+![IsIsolated](https://github.com/nqoy/Random_Graph_Analyzation/blob/main/Isolation.png)
 
+![Diameter](https://github.com/nqoy/Random_Graph_Analyzation/blob/main/Diameter.png)
+
+![Connectivity](https://github.com/nqoy/Random_Graph_Analyzation/blob/main/Connectivity.png)
