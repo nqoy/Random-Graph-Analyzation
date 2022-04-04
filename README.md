@@ -4,7 +4,7 @@ Algorithms 2 course assignment
 ## Guidelines: the Erdős–Rényi random graph model.
 
 ### Task background:
-Random graphs can help analyze complex networks and may help us understand how have better control them.
+Random graphs can help analyze complex networks and may help us understand how to better control them.
 In this model, the number of vertices of a graph is a fixed number, but the creation of the arcs between a pair of nodes depends on a probability threshold.
 
 ### Purpose:
